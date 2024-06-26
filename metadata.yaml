@@ -1,0 +1,29 @@
+_repo: Memorie-della-vita-di-Giosue-Carducci-1835-1907_73895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chiarini, Giuseppe
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '42051'
+    url: http://www.gutenberg.org/2009/agents/42051
+description: ''
+gutenberg_issued: '2024-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73895'
+language: it
+pgterms:marc904: https://archive.org/details/memoriedellavita00chiauoft
+pgterms:marc905: 20210104082839chiarini
+pgterms:marc906: '1907'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aFirenze :$bBarbèra, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memorie della vita di Giosue Carducci (1835-1907)
+url: http://www.gutenberg.org/ebooks/73895
