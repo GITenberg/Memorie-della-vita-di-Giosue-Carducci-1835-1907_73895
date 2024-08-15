@@ -1,5 +1,8 @@
 _repo: Memorie-della-vita-di-Giosue-Carducci-1835-1907_73895
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73895-h/images/cover.jpg
 creator:
   author:
     agent_name: Chiarini, Giuseppe
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '42051'
     url: http://www.gutenberg.org/2009/agents/42051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73895#Memorie-della-vita-di-Giosue-Carducci-1835-1907
 gutenberg_issued: '2024-06-23'
 gutenberg_type: Text
 identifiers:
